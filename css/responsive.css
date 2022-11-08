@@ -1,0 +1,13 @@
+@media only screen and (max-width: 1024px) {
+    .formr {
+        flex-direction: column;
+        align-items: initial;
+        
+    }
+    .date_2 {
+        text-align: center;
+    }
+    .inputForm::placeholder {
+        text-align: center;
+    }
+}
